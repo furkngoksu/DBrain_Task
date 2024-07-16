@@ -20,7 +20,7 @@ This project demonstrates how to scrape product data from a website, send it to 
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone [https://your-repo-url.git](https://github.com/furkngoksu/DBrain_Task.git)
+    git clone https://github.com/furkngoksu/DBrain_Task.git
     cd your-repo-directory
     ```
 
